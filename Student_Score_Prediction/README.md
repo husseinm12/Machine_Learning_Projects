@@ -31,6 +31,7 @@ This project builds a Linear Regression model to predict student exam scores bas
 *Target variable y = Exam_Score.
 
 5. Train/Test Split
+
 *Splits dataset into training (80%) and testing (20%) sets.
 
 6. Model Training
