@@ -41,8 +41,8 @@ pip install -r requirements.txt
 
 ▶️ Usage
 
-Place movies.csv in the same folder as the script.
-Run the script: python movie_recommender.py
+-Place movies.csv in the same folder as the script.
+-Run the script: python Movie_Recommendation.py
 Enter your favorite movie name when prompted.
 The system prints recommended movies.
 
