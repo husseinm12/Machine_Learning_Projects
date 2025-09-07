@@ -30,7 +30,8 @@ Folder: Student_Score_Prediction
 
 🛠️ Installation
 
-Clone the repository and navigate into the project folder: 
+Clone the repository: git clone https://github.com/husseinm12/Machine_Learning_Projects.git
+Navigate into the project folder: cd project_folder_name 
 
 ▶️ Usage
 
