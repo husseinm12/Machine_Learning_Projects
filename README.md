@@ -1,6 +1,6 @@
-🚀 Machine Learning & Data Science Projects
+🚀 Machine Learning Projects
 
-This repository contains a collection of machine learning and data analysis projects, each focusing on different techniques and applications. The goal is to demonstrate end-to-end workflows: from data preprocessing to model training, evaluation, and visualization.
+This repository contains a collection of machine learning projects, each focusing on different techniques and applications. The goal is to demonstrate end-to-end workflows: from data preprocessing to model training, evaluation, and visualization.
 
 📂 Projects Overview
 
